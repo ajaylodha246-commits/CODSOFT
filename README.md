@@ -16,7 +16,7 @@ and programming skills through practical tasks.
 ## Repository Structure
 - Task-1 : Number Guessing Game
 - Task-2 : StudentGradeCalculator
-- Task-3 : Java project related to internship task 3
+- Task-3 : ATM Interface
 
 ## Author
 Ajay Lovanshi  

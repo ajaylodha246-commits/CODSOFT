@@ -14,7 +14,7 @@ and programming skills through practical tasks.
 - Basic Data Structures
 
 ## Repository Structure
-- Task-1 : Java project related to internship task 1
+- Task-1 : Number Guessing Game
 - Task-2 : Java project related to internship task 2
 - Task-3 : Java project related to internship task 3
 
